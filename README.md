@@ -2,5 +2,5 @@
 
 
 
-[https://pixelexel.github.io/Election/](Electoral Votes Using Google Charts) and ![Image](src)
+[https://pixelexel.github.io/Election/] (Electoral Votes Using Google Charts) and ![Image](src)
 
